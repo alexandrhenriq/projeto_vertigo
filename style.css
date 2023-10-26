@@ -12,4 +12,14 @@ header {
     background-image: url(./imagens/bg_mobile.svg);
     background-size: cover;
     height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 3.7rem;
+}
+
+main {
+    padding-inline: 1.5rem;
 }
